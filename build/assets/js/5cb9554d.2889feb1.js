@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktemporal_documentation=self.webpackChunktemporal_documentation||[]).push([["35407"],{78482(e,t,n){n.r(t),n.d(t,{default:()=>a});var o=n(96540);let a=function(){return(0,o.useEffect)(()=>{window.location.href="https://temporal.io/change-log"},[]),null}}}]);
