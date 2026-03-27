@@ -187,9 +187,13 @@
     "message": "Namespaces",
     "description": "The label for category 'Namespaces' in sidebar 'documentation'"
   },
-  "sidebar.documentation.category.EncyclopediaTemporalNexus": {
+  "sidebar.documentation.category.Temporal Nexus": {
     "message": "Temporal Nexus",
     "description": "The label for category 'Temporal Nexus' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Extensibility": {
+    "message": "Extensibility",
+    "description": "The label for category 'Extensibility' in sidebar 'documentation'"
   },
   "sidebar.documentation.category.Data Conversion": {
     "message": "Data Conversion",
