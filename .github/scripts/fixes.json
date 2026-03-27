@@ -1,0 +1,43 @@
+{
+  "description": "Repository-specific fixes for temporalio/documentation",
+  "fixes": {
+    "sidebars.js": [
+      {
+        "type": "replace",
+        "find": "          type: 'category',\n          label: 'Temporal Cloud',\n          collapsed: true,\n          link: {\n            type: 'doc',\n            id: 'evaluate/temporal-cloud/overview',",
+        "replace": "          type: 'category',\n          label: 'Temporal Cloud',\n          key: 'EvaluateTemporalCloud',\n          collapsed: true,\n          link: {\n            type: 'doc',\n            id: 'evaluate/temporal-cloud/overview',",
+        "comment": "Two 'Temporal Cloud' categories exist (evaluate and cloud sections), causing duplicate translation keys. Add unique key to evaluate section."
+      },
+      {
+        "type": "replace",
+        "find": "      type: 'category',\n      label: 'Temporal Cloud',\n      collapsed: true,\n      link: {\n        type: 'doc',\n        id: 'cloud/index',",
+        "replace": "      type: 'category',\n      label: 'Temporal Cloud',\n      key: 'CloudTemporalCloud',\n      collapsed: true,\n      link: {\n        type: 'doc',\n        id: 'cloud/index',",
+        "comment": "Two 'Temporal Cloud' categories exist (evaluate and cloud sections), causing duplicate translation keys. Add unique key to cloud section."
+      },
+      {
+        "type": "replace",
+        "find": "              type: 'category',\n              label: 'Integrations',\n              collapsed: true,\n              link: {\n                type: 'doc',\n                id: 'develop/python/integrations/index',",
+        "replace": "              type: 'category',\n              label: 'Integrations',\n              key: 'PythonIntegrations',\n              collapsed: true,\n              link: {\n                type: 'doc',\n                id: 'develop/python/integrations/index',",
+        "comment": "Two 'Integrations' categories exist (Python and TypeScript SDK sections), causing duplicate translation keys. Add unique key to Python section."
+      },
+      {
+        "type": "replace",
+        "find": "              type: 'category',\n              label: 'Integrations',\n              collapsed: true,\n              link: {\n                type: 'doc',\n                id: 'develop/typescript/integrations/index',",
+        "replace": "              type: 'category',\n              label: 'Integrations',\n              key: 'TypeScriptIntegrations',\n              collapsed: true,\n              link: {\n                type: 'doc',\n                id: 'develop/typescript/integrations/index',",
+        "comment": "Two 'Integrations' categories exist (Python and TypeScript SDK sections), causing duplicate translation keys. Add unique key to TypeScript section."
+      },
+      {
+        "type": "replace",
+        "find": "          label: 'Temporal Nexus',\n          collapsed: true,\n          link: {\n            type: 'doc',\n            id: 'cloud/nexus/index',",
+        "replace": "          label: 'Temporal Nexus',\n          key: 'CloudTemporalNexus',\n          collapsed: true,\n          link: {\n            type: 'doc',\n            id: 'cloud/nexus/index',",
+        "comment": "Two 'Temporal Nexus' categories exist (cloud and encyclopedia sections), causing duplicate translation keys. Add unique key to cloud section."
+      },
+      {
+        "type": "replace",
+        "find": "          label: 'Temporal Nexus',\n          collapsed: true,\n          link: {\n            type: 'doc',\n            id: 'encyclopedia/nexus',",
+        "replace": "          label: 'Temporal Nexus',\n          key: 'EncyclopediaTemporalNexus',\n          collapsed: true,\n          link: {\n            type: 'doc',\n            id: 'encyclopedia/nexus',",
+        "comment": "Two 'Temporal Nexus' categories exist (cloud and encyclopedia sections), causing duplicate translation keys. Add unique key to encyclopedia section."
+      }
+    ]
+  }
+}
