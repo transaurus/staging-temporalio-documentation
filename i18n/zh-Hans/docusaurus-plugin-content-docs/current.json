@@ -1,0 +1,206 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.documentation.category.Evaluate": {
+    "message": "Evaluate",
+    "description": "The label for category 'Evaluate' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Features": {
+    "message": "Features",
+    "description": "The label for category 'Features' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Product release stages": {
+    "message": "Product release stages",
+    "description": "The label for category 'Product release stages' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.EvaluateTemporalCloud": {
+    "message": "Temporal Cloud",
+    "description": "The label for category 'Temporal Cloud' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Develop": {
+    "message": "Develop",
+    "description": "The label for category 'Develop' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Go SDK": {
+    "message": "Go SDK",
+    "description": "The label for category 'Go SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Java SDK": {
+    "message": "Java SDK",
+    "description": "The label for category 'Java SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.PHP SDK": {
+    "message": "PHP SDK",
+    "description": "The label for category 'PHP SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Python SDK": {
+    "message": "Python SDK",
+    "description": "The label for category 'Python SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.PythonIntegrations": {
+    "message": "Integrations",
+    "description": "The label for category 'Integrations' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.TypeScript SDK": {
+    "message": "TypeScript SDK",
+    "description": "The label for category 'TypeScript SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.TypeScriptIntegrations": {
+    "message": "Integrations",
+    "description": "The label for category 'Integrations' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category..NET SDK": {
+    "message": ".NET SDK",
+    "description": "The label for category '.NET SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Ruby SDK": {
+    "message": "Ruby SDK",
+    "description": "The label for category 'Ruby SDK' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.CloudTemporalCloud": {
+    "message": "Temporal Cloud",
+    "description": "The label for category 'Temporal Cloud' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Get started with Cloud": {
+    "message": "Get started with Cloud",
+    "description": "The label for category 'Get started with Cloud' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Account access": {
+    "message": "Account access",
+    "description": "The label for category 'Account access' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Metrics": {
+    "message": "Metrics",
+    "description": "The label for category 'Metrics' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.OpenMetrics": {
+    "message": "OpenMetrics",
+    "description": "The label for category 'OpenMetrics' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.PromQL": {
+    "message": "PromQL",
+    "description": "The label for category 'PromQL' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Connectivity": {
+    "message": "Connectivity",
+    "description": "The label for category 'Connectivity' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.High Availability": {
+    "message": "High Availability",
+    "description": "The label for category 'High Availability' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.CloudTemporalNexus": {
+    "message": "Temporal Nexus",
+    "description": "The label for category 'Temporal Nexus' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Migrate": {
+    "message": "Migrate",
+    "description": "The label for category 'Migrate' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Export": {
+    "message": "Export",
+    "description": "The label for category 'Export' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Audit Logging": {
+    "message": "Audit Logging",
+    "description": "The label for category 'Audit Logging' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.CLI (tcld)": {
+    "message": "CLI (tcld)",
+    "description": "The label for category 'CLI (tcld)' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Deploy to production": {
+    "message": "Deploy to production",
+    "description": "The label for category 'Deploy to production' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Self-host": {
+    "message": "Self-host",
+    "description": "The label for category 'Self-host' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Worker deployments": {
+    "message": "Worker deployments",
+    "description": "The label for category 'Worker deployments' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.CLI (temporal)": {
+    "message": "CLI (temporal)",
+    "description": "The label for category 'CLI (temporal)' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.References": {
+    "message": "References",
+    "description": "The label for category 'References' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Troubleshooting": {
+    "message": "Troubleshooting",
+    "description": "The label for category 'Troubleshooting' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Best practices": {
+    "message": "Best practices",
+    "description": "The label for category 'Best practices' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Encyclopedia": {
+    "message": "Encyclopedia",
+    "description": "The label for category 'Encyclopedia' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Workflows": {
+    "message": "Workflows",
+    "description": "The label for category 'Workflows' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Workflow Execution": {
+    "message": "Workflow Execution",
+    "description": "The label for category 'Workflow Execution' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Activities": {
+    "message": "Activities",
+    "description": "The label for category 'Activities' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Detecting application failures": {
+    "message": "Detecting application failures",
+    "description": "The label for category 'Detecting application failures' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Workers": {
+    "message": "Workers",
+    "description": "The label for category 'Workers' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Event History": {
+    "message": "Event History",
+    "description": "The label for category 'Event History' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Workflow Message Passing": {
+    "message": "Workflow Message Passing",
+    "description": "The label for category 'Workflow Message Passing' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Child Workflows": {
+    "message": "Child Workflows",
+    "description": "The label for category 'Child Workflows' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Visibility": {
+    "message": "Visibility",
+    "description": "The label for category 'Visibility' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Temporal Service": {
+    "message": "Temporal Service",
+    "description": "The label for category 'Temporal Service' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Namespaces": {
+    "message": "Namespaces",
+    "description": "The label for category 'Namespaces' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Temporal Nexus": {
+    "message": "Temporal Nexus",
+    "description": "The label for category 'Temporal Nexus' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Extensibility": {
+    "message": "Extensibility",
+    "description": "The label for category 'Extensibility' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.category.Data Conversion": {
+    "message": "Data Conversion",
+    "description": "The label for category 'Data Conversion' in sidebar 'documentation'"
+  },
+  "sidebar.documentation.link.Changelog": {
+    "message": "Changelog",
+    "description": "The label for link 'Changelog' in sidebar 'documentation', linking to 'https://temporal.io/change-log'"
+  }
+}

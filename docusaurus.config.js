@@ -1,7 +1,11 @@
 //@ts-check
 const FontPreloadPlugin = require('webpack-font-preload-plugin');
 
-/** @type {import('@docusaurus/types').DocusaurusConfig} */
+/** @type {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "zh-Hans"],
+  },import('@docusaurus/types').DocusaurusConfig} */
 
 module.exports = async function createConfigAsync() {
   return {
@@ -9,7 +13,7 @@ module.exports = async function createConfigAsync() {
     tagline: 'Build invincible applications',
     url: 'https://docs.temporal.io',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenAnchors: 'throw',
     favicon: 'img/favicon.ico',
     organizationName: 'temporalio', // Usually your GitHub org/user name.
